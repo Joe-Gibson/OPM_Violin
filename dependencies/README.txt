@@ -1,0 +1,1 @@
+All dependencies apart from fieldtrip should be included in this folder. Fieldtrip version 20231113 was used for this analysis. 
